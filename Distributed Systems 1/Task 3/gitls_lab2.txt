@@ -1,0 +1,8 @@
+
+8fe4edd [10 days ago] Refactor: add function to propagate changes using threads [banoris]
+00d1f23 [10 days ago] REVERTME: Faster, better, testing env [banoris]
+6195943 [10 days ago] Refactor: Add wrapper function for threaded HTTP requests [banoris]
+c4882ed [12 days ago] Retry send LE packet upon HTTP requests error [banoris]
+fc09afd [13 days ago] Cleanup: Change hardcoded action value to constant [banoris]
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="641b11fc-4c93-4be7-b391-e1f458f87f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z1paJWF6SCF0w0OVjDESht0g6F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flink-vehicle-telematics-master" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641b11fc-4c93-4be7-b391-e1f458f87f0e" name="Default Changelist" comment="" />
+      <created>1584016516809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584016516809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="216" key="FileChooserDialogImpl" timestamp="1584029390406">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1584029390405" />
+    <state x="552" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1584024428674">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="552" y="285" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1584024428674" />
+  </component>
+</project>
